@@ -326,7 +326,6 @@ def run_experiment_for_ed():
 
 if __name__ == '__main__':
     env = gym.make('LunarLander-v2')
-    """
     # set seeds
     env.action_space.seed(42)
     np.random.seed(21)
@@ -353,7 +352,6 @@ if __name__ == '__main__':
     reward_df = pd.DataFrame(rewards_list)
     plot_df(reward_df, "Figure 1: Reward for each training episode", "Reward for each training episode", "Episode","Reward")
 
-    """
     # Test the model
     trained_model = load_model("saved_modelstrained_model.h5")
     test_rewards = test_already_trained_model(trained_model)
