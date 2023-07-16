@@ -10,5 +10,11 @@ pip install stable-baselines3
 
 pip install atari_py
 ```
-![pictures](pictures1.png)
+Eğitim sonucunun grafiksel gösterimi:
+Figure 1: Reward for each training episode.png
+![egitim_grafik](Figure 1: Reward for each training episode.png)
+![test_grafik](Figure 2: Reward for each testing episode.png)
+
+test aşamasından bir görüntü
 ![pictures](pictures2.png)
+
