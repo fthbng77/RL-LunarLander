@@ -7,4 +7,5 @@ pip install stable-baselines3
 
 pip install atari_py
 ```
-![pictures](picture1.png)
+![pictures](pictures1.png)
+![pictures](pictures2.png)
