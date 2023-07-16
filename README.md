@@ -14,11 +14,11 @@ Eğitim sonucunun grafiksel gösterimi:
 
 ![egitim_grafik](training_episode.png)
 
-test sonucunun grafiksel gösterimi:
+Test sonucunun grafiksel gösterimi:
 
 ![test_grafik](testing_episode.png)
 
-test aşamasından bir görüntü:
+Test aşamasından bir görüntü:
 
 ![pictures](pictures2.png)
 
