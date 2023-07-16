@@ -18,6 +18,7 @@ test sonucunun grafiksel gösterimi:
 
 ![test_grafik](testing_episode.png)
 
-test aşamasından bir görüntü
+test aşamasından bir görüntü:
+
 ![pictures](pictures2.png)
 
