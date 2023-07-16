@@ -1,5 +1,8 @@
 # RL-LunarLander
-Reinforcemnt learning için alıştırma 
+Reinforcemnt learning 
+
+gym kütüphanesinden LunarLander için bir DQN tabanlı çalışma
+
 ```
 pip install gym
 
