@@ -4,9 +4,9 @@ Reinforcemnt learning
 gym kütüphanesinden LunarLander için bir DQN tabanlı çalışma
 
 ```
-pip install gym
+pip install gymnasium
 
-pip install stable-baselines3
+pip install stable-baselines3[extra]
 
 pip install atari_py
 ```
